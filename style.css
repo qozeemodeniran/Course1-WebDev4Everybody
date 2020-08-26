@@ -1,0 +1,15 @@
+body{
+	text-align: justify;
+}
+ul#count {
+	list-style-type: none;
+}
+
+ul#count li{
+	display: inline;
+	
+}
+
+ul#food li{
+	list-style-type: circle;
+}
